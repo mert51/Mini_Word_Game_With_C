@@ -1,0 +1,63 @@
+access modifier:erişim belirleyici
+address:adres
+algorithm:algoritma
+allocation:ayırma
+array:dizi
+boolean:ikili
+class:sınıf
+compile time:derleme zamanı
+compiler:derleyici
+complement:tümleyen
+constructor:kurucu
+data abstraction:veri soyutlama
+data type:veri türü
+deallocate:serbest bırakma
+debugging:hata ayıklama
+destructor:yıkıcı
+dynamic array:dinamik dizi
+editor:metin düzenleyici
+encapsulation:kapsülleme
+enumeration:numaralandırma
+exception handling:istisna yakalama
+exception:istisna
+flow chart:akış diyagramı
+function:fonksiyon
+global:global
+hardware:donanım
+header file:başlık dosyası
+index:indeks
+indirect:dolaylı
+integer:tamsayı
+library:kütüphane
+lifetime:yaşam süresi
+lokal:yerel
+loop:döngü
+machine code:makine kodu
+maintenance:bakım
+memory:hafıza
+method:metot
+namespace: isim uzayı
+nested:iç içe
+object oriented programming:nesneye dayalı programlama
+overloading:aşırı yükleme
+parameter:parametre
+pointer:işaretçi
+programming language:programlama dili
+programming:programlama
+prototype:prototip
+pseudocode:sözde kod
+random:rastgele
+recursive:öz yinelemeli
+reference:referans
+run-time:çalışma zamanı
+scope:kapsam
+sequential:sıralı
+software:yazılım
+sorting:sıralama
+source code:kaynak kod
+source code:kaynak kod
+statik array:statik dizi
+string:karakter katarı
+syntax:söz dizimi
+unsigned:işaretsiz
+variable:değişken
